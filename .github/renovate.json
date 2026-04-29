@@ -6,6 +6,10 @@
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "semanticCommitType": "fix"
     }
   ],
   "timezone": "America/Chicago",
