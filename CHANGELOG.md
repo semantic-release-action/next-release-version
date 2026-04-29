@@ -1,3 +1,10 @@
+## [4.0.18](https://github.com/semantic-release-action/next-release-version/compare/v4.0.17...v4.0.18) (2026-04-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semantic-release to v25 ([c492dc8](https://github.com/semantic-release-action/next-release-version/commit/c492dc8877f2112e33ad2757394e606486ef4243))
+
 ## [4.0.17](https://github.com/semantic-release-action/next-release-version/compare/v4.0.16...v4.0.17) (2025-02-24)
 
 
