@@ -3,6 +3,6 @@
   "private": true,
   "dependencies": {
     "semantic-release": "25.0.3",
-    "semantic-release-export-data": "1.1.0"
+    "semantic-release-export-data": "1.2.0"
   }
 }
